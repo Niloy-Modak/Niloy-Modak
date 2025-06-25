@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-Hello Everyone, I am Niloy Modak.
+Hello Everyone, I am Niloy Modak. I have practical experience with HTML, CSS, JavaScript, React.js, and MongoDB. I’ve developed full-stack projects, including a car rental system with user authentication, booking features, and secure backend integration—highlighting both front-end and server-side skills.
 
 
 ## 🌐 Socials:
