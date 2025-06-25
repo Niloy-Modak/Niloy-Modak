@@ -1,3 +1,4 @@
+<img src="https://github.com/Niloy-Modak/Niloy-Modak/blob/main/MyGithubBanner.png" />
 ## Hi there, I am Niloy Modak.
 
 
