@@ -1,5 +1,5 @@
 <img src="https://github.com/Niloy-Modak/Niloy-Modak/blob/main/MyGitHubBanner.png" />
-## Hi there, I am Niloy Modak.
+<h1>Hi there, I am Niloy Modak.</h1>
 
 
 # 💫 About Me:
