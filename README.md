@@ -8,10 +8,10 @@ Hello Everyone, I am Niloy. I have practical experience with HTML, CSS, JavaScri
 <br>
 
 ## 🔥 Currently Working On :
-- Exploring **Next.js** for full-stack web apps
-- Building a **Car Rental System** using React, MongoDB, and Firebase Auth
-- Creating a **Tourism Website** with dynamic routes and user login
-- Creating a **Food Recipe Website** with dynamic routes and user login
+- Exploring **Next.js** for full-stack web apps.
+- Building a **Car Rental System** using React, MongoDB, and Firebase Auth.
+- Creating a **Tourism Website** with dynamic routes and user login.
+- Exploring new tools and technologies to enhance development skills.
 
 <br>
 
