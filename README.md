@@ -1,5 +1,5 @@
 <img src="https://github.com/Niloy-Modak/Niloy-Modak/blob/main/My-probational%20-banner-github.png" />
-<h1>Hi there, I am Niloy Modak.</h1>
+<h1>Hi there, I am Niloy Modak. I am a Frontend Web Developer</h1>
 <br>
 
 # 💫 About Me:
