@@ -3,15 +3,7 @@
 <br>
 
 # 💫 About Me:
-Hello Everyone, I am Niloy. I have practical experience with HTML, CSS, JavaScript, React.js, and MongoDB. I’ve developed many full-stack projects. I enjoy turning ideas into functional, user-friendly applications.
-
-<br>
-
-## 🔥 Currently Working On :
-- Exploring **Next.js** for full-stack web apps.
-- Building a **Car Rental System** using React, MongoDB, and Firebase Auth.
-- Creating a **Tourism Website** with dynamic routes and user login.
-- Exploring new tools and technologies to enhance development skills.
+Hello Everyone, I am Niloy. I have practical experience with HTML, CSS, JavaScript, React.js, Next.js and MongoDB. I’ve developed many full-stack projects. I enjoy turning ideas into functional, user-friendly applications.
 
 <br>
 
