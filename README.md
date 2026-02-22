@@ -1,61 +1,48 @@
-<img src="https://github.com/Niloy-Modak/Niloy-Modak/blob/main/My-probational%20-banner-github.png" />
-<h1>Hi there, I am Niloy Modak. I am a Frontend Web Developer</h1>
-<br>
+<div align="center">
+  <img src="https://github.com/Niloy-Modak/Niloy-Modak/blob/main/My-probational%20-banner-github.png" alt="Niloy Modak Banner" width="100%" />
 
-# 💫 About Me:
-Hello Everyone, I am Niloy. I have practical experience with HTML, CSS, JavaScript, React.js, Next.js and MongoDB. I’ve developed many full-stack projects. I enjoy turning ideas into functional, user-friendly applications.
-
-<br>
-
-# 💻 Tech Skills:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge\&logo=daisyui\&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge\&logo=firebase)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge\&logo=netlify\&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
-
-
-<br>
-
-## 🌐 Socials:
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/niloymodak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/niloymodak" height="30" width="40" /></a>
+  <h1>Hi there, I'm Niloy Modak! 👋</h1>
+  <h3>Frontend Web Developer | Aspiring Full Stack Developer</h3>
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/www.linkedin.com/in/niloymodak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/niloymodak" height="30" width="40" /></a>
 <a href="https://twitter.com/https://x.com/niloymodak42" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="https://x.com/niloymodak42" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/niloy.modak.499302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/niloy.modak.499302" height="30" width="40" /></a>
+  </p>
+</div>
+
+---
+
+## About Me
+
+I am a passionate and highly motivated **Frontend Developer** specializing in the MERN stack, React.js, and Next.js. I aspire to contribute to scalable, modern web applications and am continuously learning to strengthen my abilities as I work toward becoming a skilled Full Stack Developer.
+
+- I enjoy building well-designed, responsive full-stack applications with a focus on user experience.
+- I recently learned **TypeScript** and built a full-stack doctor booking project with **Next.js** and **Mongoose**.
+- I am currently learning backend technologies such as **NestJS** and **Prisma**.
+<br>
+
+## Tech Stack & Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,typescript,tailwind,nodejs,mongodb,firebase,vercel,git,figma" alt="Skill Icons" />
+  </a>
 </p>
+<br>
 
+## GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Niloy-Modak&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Niloy-Modak&theme=vue-dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Niloy-Modak&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 <br>
 
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Niloy-Modak&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Niloy-Modak&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Niloy-Modak&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<br>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Niloy-Modak&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-<br>
-
-### 🔝 Top Contributed Repo
+## Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Niloy-Modak&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Niloy-Modak&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
