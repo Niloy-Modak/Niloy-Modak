@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Niloy-Modak/Niloy-Modak/blob/main/My-probational%20-banner-github.png" alt="Niloy Modak Banner" width="100%" />
+  <img src="https://github.com/Niloy-Modak/Niloy-Modak/blob/main/github_banner_1.png" width="100%" />
 
   <h1>Hi there, I'm Niloy Modak! 👋</h1>
   <h3>Frontend Web Developer | Aspiring Full Stack Developer</h3>
