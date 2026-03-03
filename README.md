@@ -41,8 +41,5 @@ I am a passionate and highly motivated **Frontend Developer** specializing in th
 
 <br>
 
-## Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Niloy-Modak&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Niloy-Modak&icon=0&color=0)](https://visitcount.itsvg.in)
