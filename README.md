@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Niloy-Modak/Niloy-Modak/refs/heads/main/github_banner_1.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Niloy-Modak/Niloy-Modak/refs/heads/main/github_banner.png" width="100%" />
 
   <h1>Hi there, I'm Niloy Modak! 👋</h1>
   <h3>Frontend Web Developer | Aspiring Full Stack Developer</h3>
